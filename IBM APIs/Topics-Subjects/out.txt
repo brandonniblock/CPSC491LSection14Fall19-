@@ -1,0 +1,84 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 749,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "relevance": 0.964968,
+      "count": 5,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.768104,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ],
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 6,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.564364,
+      "count": 2,
+      "confidence": 0.999981
+    },
+    {
+      "type": "Location",
+      "text": "King County",
+      "relevance": 0.537916,
+      "count": 1,
+      "confidence": 0.991223
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "West Coast",
+      "relevance": 0.479594,
+      "count": 1,
+      "confidence": 0.606885
+    },
+    {
+      "type": "Location",
+      "text": "Pacific Northwest",
+      "relevance": 0.410633,
+      "count": 1,
+      "confidence": 0.325392
+    },
+    {
+      "type": "Location",
+      "text": "North America",
+      "relevance": 0.317572,
+      "count": 1,
+      "confidence": 0.984334
+    },
+    {
+      "type": "Quantity",
+      "text": "2.1%",
+      "relevance": 0.299486,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Quantity",
+      "text": "3.1%",
+      "relevance": 0.163156,
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
+}

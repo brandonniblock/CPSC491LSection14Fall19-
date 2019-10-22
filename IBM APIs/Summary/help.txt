@@ -1,0 +1,7 @@
+GitHub: https://github.com/IBM/MAX-Text-Summarizer
+
+Docker not starting: https://github.com/docker/for-linux/issues/123
+@kinglion811's solution worked: 
+    ip link add name docker0 type bridge
+    ip addr add dev docker0 172.17.0.1/16
+based on error found by journalctl -u docker.service

@@ -1,0 +1,6 @@
+{
+  "status": "ok",
+  "summary_text": [
+    "seattle is the largest city in both the state of washington and the pacific northwest region of north america . in july 2013 , it was the fastest-growing major city in the united states . in july 2013 , it was the fastest-growing major city in the united states . in july 2013 , it was the fastest-growing major city in the united states .\n"
+  ]
+}
