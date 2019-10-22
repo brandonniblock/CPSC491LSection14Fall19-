@@ -1,0 +1,22 @@
+<!-- templates/base.html-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta character="utf-8">
+		<title>{% block title %}Django Auto Tutorial{% endblock %}</title>
+	</head>
+	<body>
+		<h1>NAP Harness</h1>
+		<p id="login">
+		{%if user.is_authenticated %}
+			<a href="{% url 'logout' %}">logout</a>
+		{% else %}
+			<a href="{% url 'login' %}">login</a>
+		{%endif %}
+		</p>
+		<main>
+			{% block content %}
+			{% endblock %}
+		</main>
+	</body>
+</html>
