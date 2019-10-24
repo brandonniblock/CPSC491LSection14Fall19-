@@ -1,0 +1,57 @@
+Representative name for the entity: 山口県
+Entity type: LOCATION
+Salience score: 0.23505228757858276
+wikipedia_url: https://en.wikipedia.org/wiki/Yamaguchi_Prefecture
+mid: /m/018_v7
+Mention text: 山口県
+Mention type: PROPER
+Mention text: 山口県
+Mention type: PROPER
+Representative name for the entity: 下関市
+Entity type: LOCATION
+Salience score: 0.1440177857875824
+wikipedia_url: https://en.wikipedia.org/wiki/Shimonoseki
+mid: /m/0gp6jw
+Mention text: 下関市
+Mention type: PROPER
+Representative name for the entity: 西部
+Entity type: LOCATION
+Salience score: 0.11179753392934799
+Mention text: 西部
+Mention type: COMMON
+Representative name for the entity: 市
+Entity type: LOCATION
+Salience score: 0.11179753392934799
+Mention text: 市
+Mention type: COMMON
+Representative name for the entity: 核都市
+Entity type: LOCATION
+Salience score: 0.07515334337949753
+Mention text: 核都市
+Mention type: COMMON
+Representative name for the entity: 中核市
+Entity type: LOCATION
+Salience score: 0.0724211260676384
+Mention text: 中核市
+Mention type: COMMON
+Representative name for the entity: 中枢
+Entity type: EVENT
+Salience score: 0.0724211260676384
+Mention text: 中枢
+Mention type: COMMON
+Representative name for the entity: 人口規模
+Entity type: OTHER
+Salience score: 0.06406907737255096
+Mention text: 人口規模
+Mention type: COMMON
+Representative name for the entity: 経済規模
+Entity type: OTHER
+Salience score: 0.06406907737255096
+Mention text: 経済規模
+Mention type: COMMON
+Representative name for the entity: 都市
+Entity type: LOCATION
+Salience score: 0.049201108515262604
+Mention text: 都市
+Mention type: COMMON
+Language of text: ja

@@ -1,0 +1,28 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 1
+  },
+  "language": "ja",
+  "entities": [
+    {
+      "type": "Location",
+      "text": "山口県",
+      "relevance": 0.968313,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "下関市",
+      "relevance": 0.827674,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "中核市",
+      "relevance": 0.508334,
+      "count": 1
+    }
+  ]
+}

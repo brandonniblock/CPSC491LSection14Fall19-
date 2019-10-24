@@ -1,0 +1,15 @@
+Speech API Key1: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Text Analytics Key1: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Environment: export TEXT_ANALYTICS_SUBSCRIPTION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+             export TEXT_ANALYTICS_ENDPOINT=https://cpsc-491-text-analytics.cognitiveservices.azure.com/
+Azure Portal: CPSC-491-Text-Analytics -> Quick start
+
+Quickstarts: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/#5-minute-quickstarts
+
+Project: https://portal.azure.com/?quickstart=true#@4b4dc282-2f24-4ce1-8131-8c9c5c432c91/resource/subscriptions/33bbc656-4d3f-42ba-b875-e565682fd39c/resourceGroups/CPSC-499-RG/providers/Microsoft.CognitiveServices/accounts/CPSC-491/overview
+
+Microsoft Speech Services - Speech to Text: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text
+(more general): https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/#5-minute-quickstarts
+
+Microsoft Text Analytics API - Sentiment Analysis/Entity Recognition/Keyphrase Extraction: https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quickstarts/python-sdk

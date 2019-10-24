@@ -1,0 +1,15 @@
+Speech to Text CPSC 491 Key: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Speech to Text CPSC 491 URL: https://stream.watsonplatform.net/speech-to-text/api
+Natural Language Understanding CPSC 491 Key: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Natural Language Understanding CPSC 491 URL: https://gateway.watsonplatform.net/natural-language-understanding/api
+
+Tons of detail - find keywords, specify possible alternatives in voice to text, find sentiment within certain keywords, etc.
+
+Speech to Text: https://cloud.ibm.com/apidocs/speech-to-text
+# Not as accurate, noticeably slower
+
+NLU - Keywords: https://cloud.ibm.com/apidocs/natural-language-understanding#keywords
+
+NLU - Sentiment: https://cloud.ibm.com/apidocs/natural-language-understanding?code=python#sentiment
+
+NLU - Entities: https://cloud.ibm.com/apidocs/natural-language-understanding?code=python#entities

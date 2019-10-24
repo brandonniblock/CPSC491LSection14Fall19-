@@ -1,0 +1,62 @@
+Document ID:  1
+	Key Entities:
+		 NAME:  Seattle 	Type:  Location 	Sub-type:  None
+			Offset:  0 	Length:  7 	Score:  0.59
+			Offset:  157 	Length:  7 	Score:  0.87
+			Offset:  320 	Length:  7 	Score:  0.83
+			Offset:  596 	Length:  7 	Score:  0.81
+			Offset:  687 	Length:  7 	Score:  0.72
+		 NAME:  West Coast of the United States 	Type:  Location Sub-type:  None
+			Offset:  33 	Length:  31 	Score:  0.80
+		 NAME:  West Coast 	Type:  Location 	Sub-type:  None
+			Offset:  33 	Length:  10 	Score:  0.94
+		 NAME:  United States 	Type:  Location 	Sub-type:  None
+			Offset:  51 	Length:  13 	Score:  0.99
+			Offset:  253 	Length:  13 	Score:  1.00
+			Offset:  420 	Length:  13 	Score:  1.00
+			Offset:  494 	Length:  13 	Score:  0.99
+			Offset:  640 	Length:  4 	Score:  0.92
+			Offset:  733 	Length:  13 	Score:  0.99
+		 NAME:  King County 	Type:  Organization 	Sub-type:  None
+			Offset:  84 	Length:  11 	Score:  0.58
+		 NAME:  King County, Washington 	Type:  Location 	Sub-type:  None
+			Offset:  84 	Length:  23 	Score:  0.80
+		 NAME:  Washington 	Type:  Location 	Sub-type:  None
+			Offset:  97 	Length:  10 	Score:  0.95
+			Offset:  206 	Length:  10 	Score:  0.99
+		 NAME:  744,955 	Type:  Quantity 	Sub-type:  Number
+			Offset:  127 	Length:  7 	Score:  0.80
+		 NAME:  2018 	Type:  DateTime 	Sub-type:  DateRange
+			Offset:  151 	Length:  4 	Score:  0.80
+			Offset:  310 	Length:  4 	Score:  0.80
+		 NAME:  Washington (state) 	Type:  Location 	Sub-type:  None
+			Offset:  193 	Length:  23 	Score:  0.80
+		 NAME:  Pacific Northwest 	Type:  Location 	Sub-type:  None
+			Offset:  225 	Length:  17 	Score:  0.97
+		 NAME:  U.S. Census 	Type:  Organization 	Sub-type:  None
+			Offset:  281 	Length:  11 	Score:  0.95
+		 NAME:  Seattle metropolitan area 	Type:  Location 	Sub-type:  None
+			Offset:  320 	Length:  25 	Score:  0.80
+		 NAME:  3.94 million 	Type:  Quantity 	Sub-type:  Number
+			Offset:  369 	Length:  12 	Score:  0.80
+		 NAME:  15th 	Type:  Quantity 	Sub-type:  Ordinal
+			Offset:  400 	Length:  4 	Score:  0.80
+		 NAME:  July 2013 	Type:  DateTime 	Sub-type:  DateRange
+			Offset:  438 	Length:  9 	Score:  0.80
+		 NAME:  5 in 	Type:  Quantity 	Sub-type:  Dimension
+			Offset:  532 	Length:  4 	Score:  0.80
+		 NAME:  May 2015 	Type:  DateTime 	Sub-type:  DateRange
+			Offset:  537 	Length:  8 	Score:  0.80
+		 NAME:  2015 United Kingdom general election 	Type:  Other 	Sub-type:  None
+			Offset:  537 	Length:  8 	Score:  0.80
+		 NAME:  annual 	Type:  DateTime 	Sub-type:  Set
+			Offset:  554 	Length:  6 	Score:  0.80
+			Offset:  663 	Length:  6 	Score:  0.80
+		 NAME:  2.1% 	Type:  Quantity 	Sub-type:  Percentage
+			Offset:  576 	Length:  4 	Score:  0.80
+		 NAME:  July 2016 	Type:  DateTime 	Sub-type:  DateRange
+			Offset:  585 	Length:  9 	Score:  0.80
+		 NAME:  3.1% 	Type:  Quantity 	Sub-type:  Percentage
+			Offset:  658 	Length:  4 	Score:  0.80
+		 NAME:  13 	Type:  Quantity 	Sub-type:  Number
+			Offset:  683 	Length:  2 	Score:  0.80

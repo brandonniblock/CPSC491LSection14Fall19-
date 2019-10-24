@@ -1,0 +1,60 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 1
+  },
+  "language": "ja",
+  "keywords": [
+    {
+      "text": "人口規模",
+      "relevance": 0.997764,
+      "count": 1
+    },
+    {
+      "text": "経済規模とも",
+      "relevance": 0.961058,
+      "count": 1
+    },
+    {
+      "text": "山口県の西部",
+      "relevance": 0.737805,
+      "count": 1
+    },
+    {
+      "text": "最大の都市",
+      "relevance": 0.662924,
+      "count": 1
+    },
+    {
+      "text": "規模",
+      "relevance": 0.439955,
+      "count": 2
+    },
+    {
+      "text": "中枢中核都市",
+      "relevance": 0.423333,
+      "count": 1
+    },
+    {
+      "text": "下関市",
+      "relevance": 0.203913,
+      "count": 2
+    },
+    {
+      "text": "中核市",
+      "relevance": 0.188958,
+      "count": 2
+    },
+    {
+      "text": "山口県",
+      "relevance": 0.188118,
+      "count": 3
+    },
+    {
+      "text": "市",
+      "relevance": 0.182626,
+      "count": 1
+    }
+  ]
+}

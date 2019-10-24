@@ -1,0 +1,14 @@
+user key (unused): XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+json key: export GOOGLE_APPLICATION_CREDENTIALS="/home/max/Desktop/CS/Senior Design/Google APIs/CPSC 499-bc4d1fe9194e.json"
+
+Project: https://console.cloud.google.com/home/dashboard?project=cpsc-499&supportedpurview=project
+
+Google Cloud Speech-to-Text API: https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries#client-libraries-usage-python
+
+Google Natural Language API - Sentiment Analysis: https://cloud.google.com/natural-language/docs/quickstart-client-libraries#client-libraries-usage-python
+
+Google Natural Language API - Entity Analysis: https://cloud.google.com/natural-language/docs/analyzing-entities#language-entities-string-python
+
+Keyword: Basically just entity extraction with custom models, no good way of doing this
+
+Custom Models: Self explanatory

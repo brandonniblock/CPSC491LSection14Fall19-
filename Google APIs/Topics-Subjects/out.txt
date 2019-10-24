@@ -1,0 +1,249 @@
+Representative name for the entity: Seattle
+Entity type: LOCATION
+Salience score: 0.6852752566337585
+wikipedia_url: https://en.wikipedia.org/wiki/Seattle
+mid: /m/0d9jr
+Mention text: Seattle
+Mention type: PROPER
+Mention text: seaport city
+Mention type: COMMON
+Mention text: Seattle
+Mention type: PROPER
+Mention text: city
+Mention type: COMMON
+Mention text: Seattle
+Mention type: PROPER
+Mention text: Seattle
+Mention type: PROPER
+Mention text: Seattle
+Mention type: PROPER
+Representative name for the entity: United States
+Entity type: LOCATION
+Salience score: 0.09928629547357559
+mid: /m/09c7w0
+wikipedia_url: https://en.wikipedia.org/wiki/United_States
+Mention text: United States
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Representative name for the entity: seat
+Entity type: OTHER
+Salience score: 0.05110495164990425
+Mention text: seat
+Mention type: COMMON
+Representative name for the entity: West Coast
+Entity type: LOCATION
+Salience score: 0.03349390625953674
+wikipedia_url: https://en.wikipedia.org/wiki/West_Coast_of_the_United_States
+mid: /m/017l04
+Mention text: West Coast
+Mention type: PROPER
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.02304116077721119
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: Washington
+Entity type: LOCATION
+Salience score: 0.01137988455593586
+wikipedia_url: https://en.wikipedia.org/wiki/Washington_(state)
+mid: /m/081yw
+Mention text: Washington
+Mention type: PROPER
+Mention text: Washington
+Mention type: PROPER
+Representative name for the entity: residents
+Entity type: PERSON
+Salience score: 0.010435235686600208
+Mention text: residents
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.010006601922214031
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: largest
+Entity type: OTHER
+Salience score: 0.008146548643708229
+Mention text: largest
+Mention type: COMMON
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.007582715712487698
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: population
+Entity type: PERSON
+Salience score: 0.0071188234724104404
+Mention text: population
+Mention type: COMMON
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.0071188234724104404
+Mention text: area
+Mention type: COMMON
+Representative name for the entity: region
+Entity type: LOCATION
+Salience score: 0.007057021837681532
+Mention text: region
+Mention type: COMMON
+Representative name for the entity: data
+Entity type: OTHER
+Salience score: 0.007032213266938925
+Mention text: data
+Mention type: COMMON
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.0062337834388017654
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: King County
+Entity type: LOCATION
+Salience score: 0.006218368653208017
+wikipedia_url: https://en.wikipedia.org/wiki/King_County,_Washington
+mid: /m/0mmpz
+Mention text: King County
+Mention type: PROPER
+Representative name for the entity: Pacific Northwest
+Entity type: LOCATION
+Salience score: 0.004756409674882889
+wikipedia_url: https://en.wikipedia.org/wiki/Pacific_Northwest
+mid: /m/0kfb0
+Mention text: Pacific Northwest
+Mention type: PROPER
+Representative name for the entity: North America
+Entity type: LOCATION
+Salience score: 0.004179316107183695
+wikipedia_url: https://en.wikipedia.org/wiki/North_America
+mid: /m/059g4
+Mention text: North America
+Mention type: PROPER
+Representative name for the entity: U.S. Census
+Entity type: ORGANIZATION
+Salience score: 0.004164586309343576
+wikipedia_url: https://en.wikipedia.org/wiki/United_States_Census_Bureau
+mid: /m/0fqj4
+Mention text: U.S. Census
+Mention type: PROPER
+Representative name for the entity: growth
+Entity type: OTHER
+Salience score: 0.0039106085896492004
+Mention text: growth
+Mention type: COMMON
+Representative name for the entity: growth rate
+Entity type: OTHER
+Salience score: 0.002457492519170046
+Mention text: growth rate
+Mention type: COMMON
+Representative name for the entity: 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: July 2013
+Entity type: DATE
+Salience score: 0.0
+year: 2013
+month: 7
+Mention text: July 2013
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: May 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+month: 5
+Mention text: May 2015
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: July 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+month: 7
+Mention text: July 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2013
+Entity type: NUMBER
+Salience score: 0.0
+value: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 3.1
+Entity type: NUMBER
+Salience score: 0.0
+value: 3.100000
+Mention text: 3.1
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 13
+Entity type: NUMBER
+Salience score: 0.0
+value: 13
+Mention text: 13
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 15
+Entity type: NUMBER
+Salience score: 0.0
+value: 15
+Mention text: 15
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2.1
+Entity type: NUMBER
+Salience score: 0.0
+value: 2.100000
+Mention text: 2.1
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 744,955
+Entity type: NUMBER
+Salience score: 0.0
+value: 744955
+Mention text: 744,955
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 3.94 million
+Entity type: NUMBER
+Salience score: 0.0
+value: 3940000.000000
+Mention text: 3.94 million
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 5
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: 5
+Mention type: TYPE_UNKNOWN
+Language of text: en

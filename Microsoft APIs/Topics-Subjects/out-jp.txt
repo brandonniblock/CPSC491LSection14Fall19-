@@ -1,0 +1,7 @@
+Document ID:  1
+	Key Entities:
+		 NAME:  下関市 	Type:  Location 	Sub-type:  None
+			Offset:  0 	Length:  3 	Score:  0.98
+		 NAME:  山口県 	Type:  Location 	Sub-type:  None
+			Offset:  5 	Length:  3 	Score:  0.97
+			Offset:  26 	Length:  3 	Score:  0.97

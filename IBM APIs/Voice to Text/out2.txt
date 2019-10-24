@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.82,
+          "alternatives": [
+            {
+              "confidence": 1.0,
+              "word": "super"
+            }
+          ],
+          "end_time": 1.15
+        },
+        {
+          "start_time": 3.88,
+          "alternatives": [
+            {
+              "confidence": 0.86,
+              "word": "then"
+            }
+          ],
+          "end_time": 4.3
+        },
+        {
+          "start_time": 4.68,
+          "alternatives": [
+            {
+              "confidence": 0.94,
+              "word": "sort"
+            }
+          ],
+          "end_time": 5.02
+        },
+        {
+          "start_time": 5.02,
+          "alternatives": [
+            {
+              "confidence": 0.93,
+              "word": "of"
+            }
+          ],
+          "end_time": 5.23
+        }
+      ],
+      "alternatives": [
+        {
+          "confidence": 0.85,
+          "transcript": "there is one that I'm super fond of actually worry was stupid and then I sort of did my little takeover thing "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}

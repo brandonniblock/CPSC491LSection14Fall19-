@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85,
+          "transcript": "there is one that I'm super fond of actually worry was stupid and then I sort of did my little takeover thing "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}
